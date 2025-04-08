@@ -5,8 +5,8 @@ Welcome to my profile! Hope you're having a great day! (✿◕‿◕) 💖
 
 ## 📖 Table of Contents
 - [🌍 About Me](#-about-me)
-- [🛠️ Languages & Tools](#-languages--tools)
-- [🛠️ Software & Frameworks](#-software--frameworks)
+- [🛠️ Languages & Tools](https://github.com/neoluigi4123/neoluigi4123/tree/main?tab=readme-ov-file#%EF%B8%8F-languages--tools)
+- [🛠️ Software & Frameworks](https://github.com/neoluigi4123/neoluigi4123/tree/main?tab=readme-ov-file#%EF%B8%8F-software--frameworks)
 - [🔧 Other Tools & Tech](#-other-tools--tech)
 - [🚀 What I'm Working On](#-what-im-working-on)
 - [🎯 Goals & Interests](#-goals--interests)
