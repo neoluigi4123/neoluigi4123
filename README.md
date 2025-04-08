@@ -60,12 +60,13 @@ Welcome to my profile! Hope you're having a great day! (✿◕‿◕) 💖
 ---
 
 ## 📬 Contact Me
-[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) `neo_luigi`  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) `neoluigimario2008@gmail.com`  
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/30211000/neo)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/neo_luigi_17/)  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/néo-aguilera-laurens-969213343/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/neoluigi4123)  
+[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) `neo_luigi`
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) `neoluigimario2008@gmail.com`
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/30211000/neo)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/neo_luigi_17/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/néo-aguilera-laurens-969213343/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/neoluigi4123)
+[HuggingFace](https://huggingface.co/neoluigi)
 
 ---
 
