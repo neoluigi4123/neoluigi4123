@@ -13,9 +13,7 @@ Welcome to my profile! Hope you're having a great day! (✿◕‿◕) 💖
 - [📬 Contact Me](#-contact-me)
 
 ---
-## Upcoming!
-- open-sourcing my 100% local, discord ai waifu bot (keep looking)
----
+
 ## 🌍 About Me
 - 💻 Passionate about **AI & LLMs**, always experimenting with new models!
 - 🎮 Love building **Discord bots, automation tools, and AI-powered apps**
