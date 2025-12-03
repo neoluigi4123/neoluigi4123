@@ -15,8 +15,8 @@ I don't just prompt AI; I build ecosystems for them to live in. My main focus is
 ### 🎨 The Creative Side
 When I'm not staring at logs, I'm usually creating.
 *   **Game Dev:** Tinkering with physics and mechanics in Unity & Godot.
-*   **Digital Art:** 3D Modeling (Blender) and Graphic Design (Adobe Suite).
-*   **Languages:** Fluent in 🇫🇷 & 🇬🇧, learning 🇮🇹 & 🇯🇵.
+*   **Digital Art:** 3D Modeling (Blender, Maya, SolidWorks, C4D) and Graphic Design (Adobe Suite, Krita). (Check out my artStation!)
+*   **Languages:** Fluent in french & english, learning italian & japanese.
 
 ---
 
