@@ -43,3 +43,4 @@ I'm always down to talk about neural networks, game logic, or just exchange musi
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/neoluigi4123)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-neoluigi-yellow)](https://huggingface.co/neoluigi)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:neoluigimario2008@gmail.com)
+[Artstation](https://neoluigi.artstation.com)
