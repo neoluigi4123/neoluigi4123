@@ -1,73 +1,45 @@
-## Hii~! 
-Welcome to my profile! Hope you're having a great day! (✿◕‿◕) 💖
+# Hii there! I'm Neo (✿◕‿◕)
+
+Welcome to my corner of the internet! I'm a developer who loves bridging the gap between **complex AI architecture** and **chaotic, fun user experiences**.
+
+I spend most of my time teaching LLMs how to act human, automating my Linux environment, and breaking things until they work beautifully. 
 
 ---
 
-## 📖 Table of Contents
-- [🌍 About Me](#-about-me)
-- [🛠️ Languages & Tools](https://github.com/neoluigi4123/neoluigi4123/tree/main?tab=readme-ov-file#%EF%B8%8F-languages--tools)
-- [🛠️ Software & Frameworks](https://github.com/neoluigi4123/neoluigi4123/tree/main?tab=readme-ov-file#%EF%B8%8F-software--frameworks)
-- [🔧 Other Tools & Tech](#-other-tools--tech)
-- [🚀 What I'm Working On](#-what-im-working-on)
-- [🎯 Goals & Interests](#-goals--interests)
-- [📬 Contact Me](#-contact-me)
+### 🧠 The "Serious" Stuff
+I don't just prompt AI; I build ecosystems for them to live in. My main focus is **Agentic AI & Discord integration**.
+*   **AI Orchestration:** Experience building Multi-Party Chat Assistants (MPCA) that handle group contexts, decision-making, and "Chain of Thought" reasoning.
+*   **Full-Stack AI:** Integrating Vision, TTS, Image Generation, and RAG (Long-term memory) into cohesive personalities.
+*   **System Control:** I love the terminal. If it can be done with a GUI, I’ll probably write a CLI tool for it instead.
+
+### 🎨 The Creative Side
+When I'm not staring at logs, I'm usually creating.
+*   **Game Dev:** Tinkering with physics and mechanics in Unity & Godot.
+*   **Digital Art:** 3D Modeling (Blender) and Graphic Design (Adobe Suite).
+*   **Languages:** Fluent in 🇫🇷 & 🇬🇧, learning 🇮🇹 & 🇯🇵.
 
 ---
 
-## 🌍 About Me
-- 💻 Passionate about **AI & LLMs**, always experimenting with new models!
-- 🎮 Love building **Discord bots, automation tools, and AI-powered apps**
-- 🎨 Also interested in **game development, design, and digital art**
-- 🌎 Speak **French & English**, learning a bit of **Italian & Japanese**
-- 🎵 Enjoy **music, VR, and gaming tech** in my free time!
+### 🛠️ The Arsenal
+**Core Stack:**
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,html,css,git,linux,debian)](https://skillicons.dev)
+
+**Creative & Game Dev:**
+[![Creative Tools](https://skillicons.dev/icons?i=unity,unreal,godot,blender,ps,ae,pr,figma)](https://skillicons.dev)
 
 ---
 
-## 🛠️ Languages & Tools
-### 🖥️ Programming Languages
-[![Languages](https://skillicons.dev/icons?i=py,html,css,cpp,cs)](https://skillicons.dev)
+### 🔭 Current Focus
+*   **Advanced Discord Bots:** Developing a "Neuro-sama" style entity with distinct persona, autonomy, and tool-use capabilities (Web browsing, code execution).
+*   **Linux Automation:** Building custom CLI assistants to handle local files, system monitoring, and media playback directly in the terminal.
+*   **Dataset Curation:** refining data to fine-tune models for specific roleplay and assistance tasks.
 
 ---
 
-## 🛠️ Software & Frameworks
-[![Tools](https://skillicons.dev/icons?i=ae,blender,debian,figma,git,godot,linux,windows,ps,pr,unity,unreal,visualstudio,vscode)](https://skillicons.dev)
+### 📬 Let's Connect!
+I'm always down to talk about neural networks, game logic, or just exchange music recommendations! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
----
-
-## 🔧 Other Tools & Tech
-- 🖥️ **AI & Machine Learning**: LLM fine-tuning, dataset curation, model evaluation
-- 🎛️ **Game Development**: Unity, Unreal Engine, Godot
-- 🎨 **Creative Software**: Photoshop, After Effects, Premiere Pro, Blender
-- 🎵 **Music Production**: DAWs, MIDI setup, electronic drum kit
-- 🖥️ **System Administration**: Linux, Debian, Windows setup & maintenance
-
----
-
-## 🚀 What I'm Working On
-- 🤖 Developing **advanced AI-powered Discord bots**
-- 🎮 Experimenting with **game development & physics-based simulations**
-- 📡 Learning more about **networking, automation, and backend development**
-- 🏗️ Creating **tools to improve AI training & dataset management**
-
----
-
-## 🎯 Goals & Interests
-- 🔬 Exploring new **AI models & training techniques**
-- 🚀 Improving my **Discord bot & automation skills**
-- 🎵 Playing with **music, VR, and gaming tech**
-- 🌌 Always learning & experimenting with **new technologies**!
-
----
-
-## 📬 Contact Me
-[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) `neo_luigi`
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) `neoluigimario2008@gmail.com`
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/30211000/neo)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/neo_luigi_17/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/néo-aguilera-laurens-969213343/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com) `neo_luigi`
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/neoluigi4123)
-[HuggingFace](https://huggingface.co/neoluigi)
-
----
-
-Thanks for visiting! 🌸 Feel free to connect! (＾◡＾)っ💕
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-neoluigi-yellow)](https://huggingface.co/neoluigi)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:neoluigimario2008@gmail.com)
